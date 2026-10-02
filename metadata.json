@@ -1,0 +1,6 @@
+{
+  "name": "EMPRENDEGT - Sistema de Gestión y Punto de Venta",
+  "description": "Sistema integral de punto de venta, inventario, ventas, gastos, clientes, proveedores y reportes para negocios guatemaltecos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
